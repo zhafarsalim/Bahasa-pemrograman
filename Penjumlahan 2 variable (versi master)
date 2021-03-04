@@ -1,6 +1,6 @@
     <html>
     <head>
-        <title>Penjumlahan Dengan PHP</title>
+        <title>Penjumlahan</title>
     </head>
     <body>
         <form name="form1" action="" method="POST">
